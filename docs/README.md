@@ -1,4 +1,4 @@
-# Documentation
+# Documentation:
 
 A good place to start is the examples/quickstart/ folder of the repo.
 
